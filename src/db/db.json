@@ -1,17 +1,17 @@
 [
   {
-    "imageUrl": "/img/img4.png",
+    "imageUrl": "img/img4.png",
     "allImages": [
       {
-        "name": "/img/img4.png",
+        "name": "img/img4.png",
         "key": "efds6236"
       },
       {
-        "name": "/img/placeholder.png",
+        "name": "img/placeholder.png",
         "key": "efffd2436"
       },
       {
-        "name": "/img/placeholder.png",
+        "name": "img/placeholder.png",
         "key": "bgfbv7543"
       }
     ],
@@ -24,18 +24,18 @@
     "key": "wpcwe22195"
   },
   {
-    "imageUrl": "/img/img2.png",
+    "imageUrl": "img/img2.png",
     "allImages": [
       {
-        "name": "/img/img2.png",
+        "name": "img/img2.png",
         "key": "odses85137"
       },
       {
-        "name": "/img/placeholder.png",
+        "name": "img/placeholder.png",
         "key": "hfdss6bd76"
       },
       {
-        "name": "/img/placeholder.png",
+        "name": "img/placeholder.png",
         "key": "mcsbv3563"
       }
     ],
@@ -48,18 +48,18 @@
     "key": "cyswk8672"
   },
   {
-    "imageUrl": "/img/img3.png",
+    "imageUrl": "img/img3.png",
     "allImages": [
       {
-        "name": "/img/img3.png",
+        "name": "img/img3.png",
         "key": "gfrfd5436"
       },
       {
-        "name": "/img/placeholder.png",
+        "name": "img/placeholder.png",
         "key": "dsgtd4306"
       },
       {
-        "name": "/img/placeholder.png",
+        "name": "img/placeholder.png",
         "key": "mgdno3419"
       }
     ],
@@ -72,14 +72,14 @@
     "key": "mhsiu1024"
   },
   {
-    "imageUrl": "/img/img1.png",
+    "imageUrl": "img/img1.png",
     "allImages": [
       {
-        "name": "/img/img1.png",
+        "name": "img/img1.png",
         "key": "kstvb3276"
       },
       {
-        "name": "/img/placeholder.png",
+        "name": "img/placeholder.png",
         "key": "maino3209"
       }
     ],
